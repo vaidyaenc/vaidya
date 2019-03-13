@@ -1,0 +1,12 @@
+"Python Main":{
+    "prefix": "py-main",
+    "body": [
+        "import sys",
+        "",
+        "def main(name,args):",
+        "\t$1",
+        "",
+        "if __name__=='__main__':",
+        "\tmain(sys.argv[0],sys.argv[1:])"
+    ]
+}
